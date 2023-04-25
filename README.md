@@ -6,8 +6,8 @@ Icon pack used in screenshots : [Material Icon Theme](https://marketplace.visual
 
 ## Screenshots
 
-![](./assets/Screenshot1.png)
-![](./assets/Screenshot2.png)
+![](https://raw.githubusercontent.com/PRIYAANK2510/IrOny-Theme/main/assets/Screenshot1.png)
+![](https://raw.githubusercontent.com/PRIYAANK2510/IrOny-Theme/main/assets/Screenshot2.png)
 
 Something's missing ? [create Issues](https://github.com/BeardedBear/BeardedTheme/issues) so that I can make the theme as compatible as possible ! ❤️ ;)
 
