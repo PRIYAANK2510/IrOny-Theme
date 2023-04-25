@@ -1,0 +1,22 @@
+{
+  "name": "irony",
+  "displayName": "IrOny",
+  "description": "Oceanic Perfect Mixture of Colors",
+  "version": "0.0.1",
+  "publisher": "Priyaank",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IrOny",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IrOny-color-theme.json"
+      }
+    ]
+  }
+}
