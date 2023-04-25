@@ -4,6 +4,19 @@
   "description": "Oceanic Perfect Mixture of Colors",
   "version": "0.0.1",
   "publisher": "Priyaank",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PRIYAANK2510/IrOny-Theme"
+  },
+  "keywords": [
+    "theme",
+    "oceanic",
+    "IrOny",
+    "irony",
+    "Priyaank",
+    "dark theme",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
